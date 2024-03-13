@@ -17,11 +17,11 @@
 
 ## Compiler
 
-1. **What is compilor?**
+1. **What is compiler?**
 - Compiler is **complex piece of software** whose job is to **convert** *source code* (i.e) *human understandable* to *machine understandable code* (i.e) *binary code* in _**one go**_.
 
 - Before running a code we need to compile.
-- After compiled, the compilor translates the source code to machine executable code.
+- After compiled, the compiler translates the source code to machine executable code.
 - The executable code will **run** on the machine.
 - If we compile thr code in windows machine then the executable file extention would be **.exe**
 - Also we will get *object file*. (need not to worry)
